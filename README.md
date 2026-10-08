@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1>👋 Hi, I'm Younes Rehamnia, a Computer Science graduate specialized in Artificial Intelligence and IoT.</h1>h1><br><br>💻 I'm a Full-Stack Developer working with Laravel, PHP, Python, Django, and Flask.<br><br>🎨 Frontend: HTML, CSS, JavaScript, Bootstrap.<br><br>⚙️ Backend: Laravel, PHP, Python, Django, Flask, REST APIs.<br><br>🗄️ Databases: MySQL, SQLite.<br><br>🤖 AI & Machine Learning: Python, Pandas, NumPy, Scikit-learn, TensorFlow, OpenCV.<br><br>🔌 IoT & Embedded: Arduino.<br><br>🐳 Tools: Docker, Git, GitHub, Linux.<br><br>🚀 Passionate about building web applications, backend systems, REST APIs, AI-powered solutions, and IoT projects.
+<h1><center>👋 Hi, I'm Younes Rehamnia, a Computer Science graduate specialized in Artificial Intelligence and IoT.</center></h1>h1><br><br>💻 I'm a Full-Stack Developer working with Laravel, PHP, Python, Django, and Flask.<br><br>🎨 Frontend: HTML, CSS, JavaScript, Bootstrap.<br><br>⚙️ Backend: Laravel, PHP, Python, Django, Flask, REST APIs.<br><br>🗄️ Databases: MySQL, SQLite.<br><br>🤖 AI & Machine Learning: Python, Pandas, NumPy, Scikit-learn, TensorFlow, OpenCV.<br><br>🔌 IoT & Embedded: Arduino.<br><br>🐳 Tools: Docker, Git, GitHub, Linux.<br><br>🚀 Passionate about building web applications, backend systems, REST APIs, AI-powered solutions, and IoT projects.
 
 
 # 💻 Tech Stack:
